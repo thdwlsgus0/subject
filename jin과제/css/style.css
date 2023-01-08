@@ -1,0 +1,14 @@
+.item {
+    display: inline-block;
+}
+
+.link {
+    display: inline-block;
+    padding: 10px;
+    font-size: 17px;
+    color: #a5a5a7;
+}
+
+.link.active {
+    color: #fd4f39;
+}
